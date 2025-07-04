@@ -4,13 +4,18 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/PxHR9vsQ/sigWhite.png">
         <img  align="center" width="40px" alt="" src="https://i.postimg.cc/tggTPk4L/sigBlack.png">
     </picture>
-    Oi, eu sou o Abner! 👋</h2>
-    <p> No mundo da programação desde 2015, quando comecei a cursar técnico em informática, sou apaixonado pelo que faço! A cada projeto, busco expandir meus horizontes e aprimorar meu trabalho. Desde então, me dediquei mais buscando cursos e iniciando Ciência da Computação.
+    Olá, mundo. Eu sou o Abner! 👋</h2>
+    <img  align="center" width="100%" style="margin-bottom:12px;" alt="Abner J Silva - Desenvolvedor Web" src="cover.jpeg">
+    <p>
+        <br />
+        No mundo da programação desde 2015, quando comecei a cursar <strong>Técnico em Informática</strong>, sou apaixonado pelo que faço! Depois do curso técnico, comecei meus estudos em <strong>Ciência da Computação</strong> e hoje carrego uma boa experiência em desenvolvimento. Estou me desafiando a cada momento, buscando novos nonhecimentos, novas técnicas e novas ferramentas.
     </br></br>
     Estou sempre explorando...
     </p>
 </div>
 <div>
+    <h2>🚩 Contate-me</h2>
+    <div>
     <div style="margin-left:100px">
         <a style="text-decoration: none;" href="https://www.linkedin.com/in/abner-j-silva/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,17 +31,13 @@
     </a>
     </div>
 </div>
-<div>
-    </br> 
-    <picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=abnerjs&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-    />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=abnerjs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-        <img src="https://github-readme-stats.vercel.app/api?username=abnerjs&show_icons=true" />
-    </picture>
 </div>
+
+<h2>
+    🏆 Estatísticas
+</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abnerjs&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnerjs&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnerjs&theme=dark" width="688" />
+</p>
