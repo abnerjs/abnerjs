@@ -8,7 +8,7 @@
     <img  align="center" width="100%" style="margin-bottom:12px;" alt="Abner J Silva - Desenvolvedor Web" src="cover.jpeg">
     <p>
         <br />
-        No mundo da programação desde 2015, quando comecei a cursar <strong>Técnico em Informática</strong>, sou apaixonado pelo que faço! Depois do curso técnico, comecei meus estudos em <strong>Ciência da Computação</strong> e hoje carrego uma boa experiência em desenvolvimento. Estou me desafiando a cada momento, buscando novos nonhecimentos, novas técnicas e novas ferramentas.
+        No mundo da programação desde 2015 sou apaixonado pelo que faço! Desenvolvedor Full Stack especializado na construção de <strong>aplicações web escaláveis</strong> e <strong>APIs REST performáticas</strong>.
     </br></br>
     Estou sempre explorando...
     </p>
