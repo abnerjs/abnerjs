@@ -8,7 +8,11 @@
     <img  align="center" width="100%" style="margin-bottom:12px;" alt="Abner J Silva - Desenvolvedor Web" src="cover.jpeg">
     <p>
         <br />
-        No mundo da programação desde 2015 sou apaixonado pelo que faço! Desenvolvedor Full Stack especializado na construção de <strong>aplicações web escaláveis</strong> e <strong>APIs REST performáticas</strong>.
+        <br/ >
+        No mundo da programação desde 2015 sou apaixonado pelo que faço!
+        <br/ >
+        <br/ >
+        Sou um <strong>Engenheiro de Software</strong> e <strong>Desenvolvedor Full-Stack</strong>, crio soluções web escaláveis que vão além do código: desenho arquiteturas que <strong>resolvem problemas reais</strong> de negócio. Criando sites com performance, acessibilidade e boas práticas para SEO e IA.
     </br></br>
     Estou sempre explorando...
     </p>
