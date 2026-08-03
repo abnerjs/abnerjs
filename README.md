@@ -25,7 +25,7 @@
 </div>
 
 <div>
-    <h2>🖥️ Skills</h2>
+    <h2>🖥️ Stack</h2>
     <div>
     <div style="margin-left:100px">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Next.js-171717.svg?variant=secondary&amp;size=xs&amp;logo=nextdotjs&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Next.js-171717.svg?variant=secondary&amp;size=xs&amp;logo=nextdotjs&amp;mode=light"></picture>
